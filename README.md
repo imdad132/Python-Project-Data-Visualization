@@ -1,5 +1,5 @@
 # Project Description 
-This Python project is building an interactive map to visualize immigration to Canada from different countries using data from the UN data sources. It uses Folium for mapping and Pandas for data manipulation. 
+This Python project is building an interactive map to visualize immigration to Canada from different countries using data from the UN data sources. It uses Folium for mapping, GeoJSON for country shapes, Choropleth for visualization, and Pandas for data manipulation. 
 
 # Objectives
 The purpose is to draw a geo-spatial map showing the immigration trends Canada. 
